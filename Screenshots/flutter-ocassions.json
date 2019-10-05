@@ -1,0 +1,57 @@
+{
+  "Holiday" : {
+    "ABC" : {
+      "-LivvdBHPtytpTgE6DVk" : {
+        "createdAt" : 1547451644,
+        "date" : 1547451644,
+        "description" : "Testing Holiday Data.",
+        "name" : "MakarSankranti",
+        "photo" : "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+        "tags" : "#MakarSankranti#Celebration",
+        "updatedAt" : 1547451644
+      },
+      "-Livvs-qAcA6DzFSrZTY" : {
+        "createdAt" : 1562226044,
+        "date" : 1562226044,
+        "description" : "Testing Holiday Data.",
+        "name" : "RakshaBandhan",
+        "photo" : "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+        "tags" : "#RakshaBandhan#Celebration",
+        "updatedAt" : 1562226044
+      },
+      "-Livw1szrg7dfGcDeqoM" : {
+        "createdAt" : 1572162044,
+        "date" : 1572162044,
+        "description" : "Testing Holiday Data.",
+        "name" : "Diwali",
+        "photo" : "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+        "tags" : "#Diwali#Celebration",
+        "updatedAt" : 1572162044
+      },
+      "-LivwArYCJ2b1_i_QTEQ" : {
+        "createdAt" : 1570261244,
+        "date" : 1570261244,
+        "description" : "Testing Holiday Data.",
+        "name" : "Dashera",
+        "photo" : "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+        "tags" : "#Dashera#Celebration",
+        "updatedAt" : 1570261244
+      }
+    }
+  },
+  "Users" : {
+    "-Lpj6IVbH07rzro3W2oP" : {
+      "createdAt" : 1569527248937,
+      "deviceToken" : "cUJ9kk5TUV8:APA91bFiy8MvomwcaIWWrr5GVrchRup6mfwp78OMQWsjffJcFjeaMZbd9WwrE5Vtjpvuln1bD9bl6R7wib7bkcjuZjS_-IM0vy3V3bnku_c0313OepCuHJ6PrHjyuG86lFi0NINtuAAe",
+      "deviceType" : "Android",
+      "email" : "test@mail.com",
+      "group" : "ABC",
+      "online" : false,
+      "photo" : "-",
+      "statusUpdatedAt" : 1569527248937,
+      "updatedAt" : 1569527248937,
+      "userApprovalStatus" : 1,
+      "userID" : "jlSo1EFpKcdxfPXXD2jfd3Kqp512"
+    }
+  }
+}

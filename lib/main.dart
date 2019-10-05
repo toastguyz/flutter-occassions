@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Explore',
+      title: 'Flutter Occassions',
       theme: ThemeData(
           brightness: Brightness.light,
           cursorColor: activeColor,
